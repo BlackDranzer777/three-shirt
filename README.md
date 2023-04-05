@@ -17,7 +17,7 @@ Contributions to the project are welcome and encouraged! If you'd like to contri
 ## Installation
 To use the 3-Shirt project, follow these steps:
 
-1. Clone the repository to your local machine using git clone https://github.com/username/3-shirt.git.
+1. Clone the repository to your local machine using git clone https://github.com/BlackDranzer777/three-shirt.git.
 2. Navigate to the project directory using cd 3-shirt.
 3. Install the necessary dependencies using npm install.
 4. Run the development server using npm run dev.
