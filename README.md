@@ -1,5 +1,7 @@
 # three-shirt
-This project is a 3D t-shirt editor built with Three.js and React. Inspired by the work of Anderson Mancini, a well-known Three.js instructor, this editor allows users to change the colors of various decals and add their own logos to a 3D t-shirt model in real-time. 
+This project is a 3D t-shirt editor built with Three.js and React. Inspired by the work of Anderson Mancini, a well-known Three.js instructor, this editor allows users to change the colors of various decals and add their own logos to a 3D t-shirt model in real-time.
+<br/>
+Deployed link:- https://musical-capybara-785b71.netlify.app
 
 ## Usage
 To use the application, simply visit the live demo at [link to live demo], where you can interact with the 3D t-shirt model and customize its appearance. To run the project locally, you can clone the repository and follow the instructions in the README file.
